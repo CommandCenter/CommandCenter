@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<BuildInfo>
+<BcVersionInfo>
+<XmlVersion>1.0</XmlVersion>
+<SDKVersion>2.0.0</SDKVersion>
+<PlatformVersion>2.2</PlatformVersion>
+<LLVMVersion>3.1</LLVMVersion>
+</BcVersionInfo>
+<BcProject>
+<ProjectName>CommandCenterService</ProjectName>
+<FileName>CommandCenterService.bc</FileName>
+<OutputType>Executable</OutputType>
+<CompileOption>-D_DEBUG -I"C:\Users\HAKJAE\workspace\CommandCenterService\inc" -O0 -g3 -Wall -fmessage-length=0       -D_APP_LOG</CompileOption>
+<LinkOption>-L"C:\Users\HAKJAE\workspace\CommandCenterService\lib"  -Xlinker -rpath="/opt/usr/apps/5NOPR5TohZ/lib" -Xlinker -rpath="/home/developer/sdk_tools/lib"  -L"C:/tizen-sdk/platforms/tizen2.2/rootstraps/tizen-emulator-2.2.native/usr/lib" -L"C:/tizen-sdk/platforms/tizen2.2/rootstraps/tizen-emulator-2.2.native/usr/lib/osp"                            </LinkOption>
+</BcProject>
+</BuildInfo>

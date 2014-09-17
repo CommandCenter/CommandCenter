@@ -1,0 +1,16 @@
+#delete
+#add
+#modify
+author-signature.xml
+signature1.xml
+bin/CommandCenter.exe
+info/manifest.xml
+res/720x1280/background.jpg
+res/720x1280/background.png
+res/720x1280/background2.jpg
+res/720x1280/btn_off_normal.png
+res/720x1280/btn_off_push.png
+res/720x1280/btn_on_normal.png
+res/720x1280/btn_on_push.png
+res/screen-size-normal/MainForm.xml
+shared/res/screen-density-xhigh/mainmenu.png
